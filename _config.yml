@@ -12,7 +12,7 @@ baseurl: "/"
 title: Singularity Hacker
 description: Singularity Hacker
 cover: assets/images/blog-cover.jpg
-logo: assets/images/logo.jpg
+logo: https://i.imgur.com/TttCJD4.gif
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
