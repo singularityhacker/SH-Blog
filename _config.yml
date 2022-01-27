@@ -19,7 +19,7 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: false # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: false # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: # replace by your username
@@ -42,7 +42,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-redirect-from]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-redirect-from, jekyll-menus]
 
 feed:
   path: feed.xml
