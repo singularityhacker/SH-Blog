@@ -3,16 +3,20 @@ layout: post
 current: post
 cover: assets/images/the-blackberry-playbook-doesnt-exist.jpg
 navigation: false
-title: "The BlackBerry PlayBook Doesn’t Exist"
-date: 2011-09-16 10:18:00
+title: The BlackBerry PlayBook Doesn’t Exist
+date: 2011-09-16T10:18:00.000+00:00
 tags: []
 class: post-template
-subclass: "post"
+subclass: post
 logo: assets/images/ghost.png
 author: ghost
-redirect_from: /post/10300606492/the-blackberry-playbook-doesnt-exist
----
+redirect_from: "/post/10300606492/the-blackberry-playbook-doesnt-exist"
+menu:
+  home:
+    weight: 2
+    title: Home2
 
+---
 I am truly shocked that so many people are being duped by BlackBerry’s recent announcement of their tablet, the PlayBook. I have read endless comments from people who are saying they can’t wait to get this tablet computer. Well, I think I have some bad news for you folks.
 
 There is no evidence that the PlayBook exist as advertised.

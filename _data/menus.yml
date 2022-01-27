@@ -1,4 +1,6 @@
+---
 home:
-  - url: /
-    title: Home
-    identifier: /
+- url: "/"
+  title: Home
+  identifier: "/"
+  weight: 1
