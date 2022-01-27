@@ -1,0 +1,40 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: current
+  label: current
+- type: file
+  name: cover
+  label: cover
+- type: boolean
+  name: navigation
+  label: navigation
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: class
+  label: class
+- type: text
+  name: subclass
+  label: subclass
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: author
+  label: author
+- type: text
+  name: redirect_from
+  label: redirect_from
