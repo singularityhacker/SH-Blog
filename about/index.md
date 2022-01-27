@@ -8,7 +8,7 @@ class: page-template
 subclass: post page
 menu:
   home:
-    weight: 2
+    weight: 3
 
 ---
 Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.

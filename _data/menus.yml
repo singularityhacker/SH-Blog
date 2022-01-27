@@ -1,7 +1,10 @@
+---
 home:
-  - url: /
-    title: Home
-    identifier: /
-  - url: /about
-    title: About
-    identifier: /
+- url: "/about"
+  title: About
+  identifier: "/"
+  weight: 1
+- url: "/"
+  title: Home
+  identifier: "/"
+  weight: 2
