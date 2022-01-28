@@ -4,7 +4,3 @@ home:
   title: Home
   identifier: "/"
   weight: 1
-- url: "/about"
-  title: About
-  identifier: "/"
-  weight: 2
