@@ -3,16 +3,20 @@ layout: post
 current: post
 cover: assets/images/augmented-reality-living-in-cyberspace.jpg
 navigation: false
-title: "Augmented Reality: Living in Cyberspace"
-date: 2011-10-21 10:18:00
+title: 'Augmented Reality: Living in Cyberspace'
+date: 2011-10-21T10:18:00.000+00:00
 tags: []
 class: post-template
-subclass: "post"
+subclass: post
 logo: assets/images/ghost.png
 author: ghost
-redirect_from: /post/10958007933/augmented-reality-living-in-cyberspace
----
+redirect_from: "/post/10958007933/augmented-reality-living-in-cyberspace"
+menu:
+  home:
+    weight: 2
+    title: Test1
 
+---
 The evolution of human/machine interface will travel through several definable epochs. Each epoch does not make the previous obsolete but does drastically alter and improve the efficiency and ease of our interaction with technology and information.
 
 The evolution can be described and visualized as follows:

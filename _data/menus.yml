@@ -1,8 +1,5 @@
 ---
 home:
-- url: https://app.forestry.io/sites/mkgg53takyd7bw/#/menus/home
-  weight: 2
-  title: Test1
 - url: "/"
   title: Home
   identifier: "/"
