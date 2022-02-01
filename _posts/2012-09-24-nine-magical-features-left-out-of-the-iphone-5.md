@@ -3,16 +3,20 @@ layout: post
 current: post
 cover: assets/images/nine-magical-features-left-out-of-the-iphone-5.jpg
 navigation: false
-title: "Nine Magical Features Left Out of the iPhone 5"
-date: 2012-09-24 10:18:00
+title: Nine Magical Features Left Out of the iPhone 5
+date: 2012-09-24T10:18:00.000+00:00
 tags: []
 class: post-template
-subclass: "post"
+subclass: post
 logo: assets/images/ghost.png
 author: ghost
-redirect_from: /post/31861515590/nine-magical-features-left-out-of-the-iphone-5
----
+redirect_from: "/post/31861515590/nine-magical-features-left-out-of-the-iphone-5"
+menu:
+  home:
+    weight: 4
+    title: Test 3
 
+---
 It would be accurate to call Apples iPhone 5 announcement a snooze-fest. It was like a dubstep song where you keep waiting for the drop and it NEVER comes. One reason many of us were so disappointed is that Apple had the time, technical feasibility, intellectual property rights, and cash reserve to make any of the following magical technologies a reality but it didn’t.
 
 **1. nfc**
