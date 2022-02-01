@@ -11,10 +11,6 @@ subclass: post
 logo: assets/images/ghost.png
 author: ghost
 redirect_from: "/post/31861515590/nine-magical-features-left-out-of-the-iphone-5"
-menu:
-  home:
-    weight: 2
-    title: Test Next
 
 ---
 It would be accurate to call Apples iPhone 5 announcement a snooze-fest. It was like a dubstep song where you keep waiting for the drop and it NEVER comes. One reason many of us were so disappointed is that Apple had the time, technical feasibility, intellectual property rights, and cash reserve to make any of the following magical technologies a reality but it didn’t.
