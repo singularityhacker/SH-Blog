@@ -1,9 +1,9 @@
 ---
 home:
 - url: "/"
-  weight: 4
+  weight: 1
   title: Test External
 - url: "/"
   title: Home
   identifier: "/"
-  weight: 1
+  weight: 2
