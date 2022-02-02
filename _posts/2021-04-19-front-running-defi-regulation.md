@@ -35,19 +35,16 @@ How does knowing any of this help you? As a blockchain developer/user, you can p
 
 1. Availability
 
-2. 1. If the front end of your application is hosted on AWS and your domain is registered with GoDaddy then your decentralized and censorship-resistant submarine might as well have a screen door on it. To guarantee availability to end-users means employing censorship-resistant technologies like IPFS and ENS.
+   If the front end of your application is hosted on AWS and your domain is registered with GoDaddy then your decentralized and censorship-resistant submarine might as well have a screen door on it. To guarantee availability to end-users means employing censorship-resistant technologies like IPFS and ENS.
+2. Governance
 
-3. Governance
+   Make no mistake about it. when the regulatory guns come out, they will be squarely targeted at At those who are building and managing these products, and if you are in a position where you can update protocols then you will be legally compelled to do so. A trustless system is not trustless if the founders have to be trusted to not update the protocol at the behest of another. This means on-chain governance.
+3. Anonymity
 
-4. 1. Make no mistake about it. when the regulatory guns come out, they will be squarely targeted at At those who are building and managing these products, and if you are in a position where you can update protocols then you will be legally compelled to do so. A trustless system is not trustless if the founders have to be trusted to not update the protocol at the behest of another. This means on-chain governance.
+   Even assuming that there is no attack vector at the protocol level, this does not mean that the blockchain creators are safe from attack by governments. If their identity is known, they are fully exposed to the threat of personal liability. This could mean their personal assets are confiscated or they’re held criminally liable for building and releasing the product. Just ask [Arthur Hayes](https://href.li/?https://www.coindesk.com/former-bitmex-ceo-hayes-surrenders-to-face-us-charges-report). I believe anonymity will be shown to be as important for founders as it has been emphasized as a feature for users.
+4. PoS Consensus
 
-5. Anonymity
-
-6. 1. Even assuming that there is no attack vector at the protocol level, this does not mean that the blockchain creators are safe from attack by governments. If their identity is known, they are fully exposed to the threat of personal liability. This could mean their personal assets are confiscated or they’re held criminally liable for building and releasing the product. Just ask [Arthur Hayes](https://href.li/?https://www.coindesk.com/former-bitmex-ceo-hayes-surrenders-to-face-us-charges-report). I believe anonymity will be shown to be as important for founders as it has been emphasized as a feature for users.
-
-7. PoS Consensus
-
-8. 1. We need to move away from Proof of Work (PoW) to Proof of Stake (PoS) as soon as possible and it’s not just about scalability and speed of transactions. Physical mining represents a very real physical vulnerability because governments can dramatically lower the cost of a 51% attack simply by seizing control of the mining physical infrastructure required to drive PoW. That dramatically changes in the move to PoS because there is no physical infrastructure per se. What’s more, it also increases anonymity by removing miner IP addresses from the equation and provides greater resiliency in the face of [power loss](https://href.li/?https://cointelegraph.com/news/did-a-massive-chinese-power-outage-cause-bitcoin-s-crash-down-to-50k).
+   We need to move away from Proof of Work (PoW) to Proof of Stake (PoS) as soon as possible and it’s not just about scalability and speed of transactions. Physical mining represents a very real physical vulnerability because governments can dramatically lower the cost of a 51% attack simply by seizing control of the mining physical infrastructure required to drive PoW. That dramatically changes in the move to PoS because there is no physical infrastructure per se. What’s more, it also increases anonymity by removing miner IP addresses from the equation and provides greater resiliency in the face of [power loss](https://href.li/?https://cointelegraph.com/news/did-a-massive-chinese-power-outage-cause-bitcoin-s-crash-down-to-50k).
 
 Building the decentralized trustless system requires a constant obsession with thinking about how users can be attacked and exploited. The same passion that exists behind decentralization will exist on the side of governments who wish to control and exploit it for power. This conflict is unprecedented for several reasons. Firstly, the servers running the code do not reside in any physical country and, secondly, all parties involved are involved voluntarily so it can’t be construed as an issue of theft or exploitation. These reasons alone will inevitably cause people to rightly question what grounds a government has to control this space but, I’m convinced, that will not deter them from claiming that right. The only way to front-run the impending clash of worldviews is with the same principles that have driven this entire movement, that being an absolute insistence on unmitigated trustlessness and decentralization.
 
