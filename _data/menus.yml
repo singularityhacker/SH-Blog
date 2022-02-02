@@ -3,7 +3,3 @@ mainNavigation:
 - url: "/"
   weight: 1
   title: Home
-- link: "/about/"
-  url: "/about/"
-  weight: 2
-  title: About
