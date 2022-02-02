@@ -4,7 +4,3 @@ mainNavigation:
   url: "/about/"
   weight: 1
   title: About
-- link: "/feed.xml"
-  url: "/"
-  weight: 2
-  title: Home
