@@ -13,7 +13,7 @@ author: ghost
 redirect_from: "/post/10300606492/the-blackberry-playbook-doesnt-exist"
 menu:
   home:
-    weight: 3
+    weight: 1
     title: Test
 
 ---

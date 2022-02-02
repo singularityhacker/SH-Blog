@@ -1,11 +1,10 @@
+---
 mainNavigation:
-  - name: Home
-    link: /
-  - name: About
-    link: /about/
-  - name: RSS Feed
-    link: /feed.xml
-
-
-
-
+- link: "/feed.xml"
+  url: "/"
+  weight: 1
+  title: Home
+- link: "/about/"
+  url: "/about/"
+  weight: 2
+  title: About
