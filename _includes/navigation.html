@@ -1,5 +1,6 @@
 <ul class="nav" role="menu">
-   {% for item in site.data.menus.mainNavigation %}
+{% assign sortedNavigation = site.data.menus.mainNavigation | sort: "weight" %}
+{% for item in sortedNavigation %}
    <li class="nav-home" role="menuitem">
      <a href="{{ item.url }}">{{ item.title }}</a>
    </li>
