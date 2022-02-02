@@ -1,5 +1,8 @@
 ---
 mainNavigation:
+- url: "/about"
+  weight: 2
+  title: About
 - url: "/"
   weight: 1
   title: Home
