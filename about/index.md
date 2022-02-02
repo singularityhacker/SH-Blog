@@ -8,10 +8,12 @@ class: page-template
 subclass: post page
 
 ---
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Singularity Hacker is a persona and idea I created in 2009 after reading Charles Stross's Accelerando. From there I voracious read everything from Ray Kurzweil and became of Singularity believer of sorts. Other works like the Daemon series crystallized my vision of what the future would be. Combined with [this cultivated aesthetic](https://www.pinterest.com/decimal/singularity-hacker/), I started to write about topics that fit this ethos. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+SingularityHacker.com (Singularityhacker.eth) and Justiceconder.com (0xJustice.eth) together comprise my public online persona and interest. I have recently begun experimenting with founding a DAO as well with the working name of FractionDAO (FractionDAO.eth and Fraction Software LCC have been registered). 
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+I am working on expanding many of the ideas discussed in summary fashion on this blog into a book with the same name. You can see the working title and cover design below. 
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+The fundamental idea of Singularity Hacker is that a person armed with the knowledge of the inevitability of technological progress and its constituent elements is at an advantage when compared with people who are merely enjoying the fruits of technology. 
+
+![](/assets/images/sh-book.jpg)
