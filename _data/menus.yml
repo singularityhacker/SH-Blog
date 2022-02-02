@@ -2,9 +2,9 @@
 mainNavigation:
 - link: "/about/"
   url: "/about/"
-  weight: 2
+  weight: 1
   title: About
 - link: "/feed.xml"
   url: "/"
-  weight: 1
+  weight: 2
   title: Home
