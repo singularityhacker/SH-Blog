@@ -1,9 +1,11 @@
----
-home:
-- url: "/"
-  weight: 1
-  title: Test External
-- url: "/"
-  title: Home
-  identifier: "/"
-  weight: 2
+mainNavigation:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: RSS Feed
+    link: /feed.xml
+
+
+
+
