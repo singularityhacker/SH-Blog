@@ -2,16 +2,17 @@
 layout: post
 current: post
 cover: assets/images/front-running-defi-regulation.jpg
-navigation: True
+navigation: true
 title: Front-Running Defi Regulation
-date: 2021-04-19 10:00:00
-tags: [blockchain, defi, ethereum, crypto, regulatio, bitcoin]
+date: 2021-04-19T10:00:00.000+00:00
+tags:
+- defi
 class: post-template
-subclass: "post"
+subclass: post
 author: ghost
-redirect_from: /post/648942062163673088/front-running-defi-regulation
----
+redirect_from: "/post/648942062163673088/front-running-defi-regulation"
 
+---
 Last week was big for crypto. The Coinbase IPO happened and the whole world seemed to wake up in recognition of crypto as an asset class. While this is a major step in the legitimization of the space, some even calling it crypto’s ’[Netscape moment](https://href.li/?https://cointelegraph.com/news/coinbase-listing-is-crypto-s-netscape-moment-says-mike-novogratz)’, I want to take the opportunity to highlight the dangers of crypto going mainstream.
 
 The United States is woefully behind in the crypto economy in every conceivable measure. For Bitcoin PoW blockchain, the U.S. represents a mere [7%](https://href.li/?https://www.statista.com/statistics/1200477/bitcoin-mining-by-country/) of the global hash rate while China represents approx. 65%. This has lead thinkers like [Peter Thiel](https://href.li/?https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable) to suggest that Bitcoin could in fact be a Chinese financial weapon against the U.S. and to unambiguously state that it specifically threatens the dollar.
